@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 service IBSng stop
 
